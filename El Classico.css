@@ -1,0 +1,22 @@
+img {
+    filter: alpha(opacity=60);}
+
+.hintergrundbild{
+background-image:url(http://www.soccerticketsonline.com/wp-content/uploads/el-clasico-1.jpg);
+position:fixed;
+width:1650px;
+height:1000px;
+background-size: contains;
+filter: alpha(opacity=60);
+p{color:black}}
+
+p{color: black;}
+h1{color:gold;}
+#Hintergrund{
+position:fixed;
+width:1650px;
+height:1000px;
+filter: alpha(opacity=60); 
+}
+
+ 
